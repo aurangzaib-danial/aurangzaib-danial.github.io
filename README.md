@@ -1,7 +1,4 @@
-# This is my personal website
-I'm going to have following stuff on my website
+# Personal Website
+This website is for people to get to know me. Here you can find my blogs, about, work stuff etc.
 
-1. Social links
-2. About
-3. Developer Portofolio
- 
+AD Liaqat Khan
