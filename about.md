@@ -8,7 +8,8 @@ permalink: /about/
   <img src="/assets/images/me.jpeg">  
 </div>
 
-Hi. I'm **Aurangzaib Danial Liaqat Khan**. However, my friends and family call my **Sunny** most of the time.  
+### Hi 👋
+I'm **Aurangzaib Danial Liaqat Khan**. However, my friends and family call me **Sunny** most of the time.  
 Further, I know that I have a really long name and people some times really get amazed. 
 
 I have recently started as a freshman at [University of Stirling](https://www.stir.ac.uk), UK.  

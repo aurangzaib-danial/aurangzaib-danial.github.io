@@ -259,6 +259,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jemoji
   kramdown-parser-gfm
   minima (~> 2.0)
   tzinfo (~> 1.2)
