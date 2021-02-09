@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="avatar">
-  <img src="/assets/images/me.jpeg">  
+  <img src="/assets/images/me.JPG">  
 </div>
 
 ### Hi 👋
