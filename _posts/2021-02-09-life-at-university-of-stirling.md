@@ -1,11 +1,6 @@
 ---
 title: Life at University of Stirling
 ---
-## Course so far
-Since, I have started learning at INTO University of Stirling, I have always felt a sense of comfort and joy. Currently, I’m going through a pathways program that leads to a University degree. However, I did not expect that the program would be heavily dedicated towards polishing the basic skills of students that will allow them to succeed in the challenging environments of university.
-
-To elaborate, the teachers are extra-ordinarily committed to their students. I have found that the teachers go above and beyond when a student asks for help. For instance, my English teacher **Mrs. Amy Carr** is exceptionally responsive to my questions. Whenever I send her a message, she replies with a comprehensive answer that not only solves my problem, but I also end up learning one or more things. I can request a one-on-one meeting with her on a weekly basis which is a tremendous opportunity for overcoming complex problems. Moreover, other teachers have the same sense of commitment to their students.
-
 ## Life so far
 Coming to UK for studies was in itself a great opportunity. The environment here is most satisfying and enjoyable for education. To be able to live and study in a developed country allows you to see things differently and the surroundings motivate you to do better. Here, I have always felt like home. Everyone is thoughtful and extremely helplful.
 
@@ -27,6 +22,13 @@ However, recently due to a plethora of assignments, I haven't been able to socia
 
 But I have found the solution to this problem and instead of reaching out indiviudally, I have started sharing stuff using **WhatsApp Statuses** which are great and easy to use. This way I can keep in touch with my friends through pics and memos and anyone can send me a message related to a specific status without me having to send it to everyone.
 
+## Course so far
+Since, I have started learning at INTO University of Stirling, I have always felt a sense of comfort and joy. Currently, I’m going through a pathways program that leads to a University degree. However, I did not expect that the program would be heavily dedicated towards polishing the basic skills of students that will allow them to succeed in the challenging environments of university.
+
+To elaborate, the teachers are extra-ordinarily committed to their students. I have found that the teachers go above and beyond when a student asks for help. For instance, my English teacher **Mrs. Amy Carr** is exceptionally responsive to my questions. Whenever I send her a message, she replies with a comprehensive answer that not only solves my problem, but I also end up learning one or more things. I can request a one-on-one meeting with her on a weekly basis which is a tremendous opportunity for overcoming complex problems. Moreover, other teachers have the same sense of commitment to their students.
+
+
+## Conclusion
 My life here at **University of Stirling** has just started. I do believe that the things are going to get much interesting and fun with time.
 
 
