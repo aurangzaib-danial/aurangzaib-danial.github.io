@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div class="avatar">
-  <img src="/assets/images/me.JPG">  
+  <img src="https://github.com/aurangzaib-danial/aurangzaib-danial.github.io/blob/master/assets/images/me.heic?raw=true">  
 </div>
 
 ### Hi 👋
