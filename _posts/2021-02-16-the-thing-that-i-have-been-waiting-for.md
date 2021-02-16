@@ -13,4 +13,4 @@ Anyways, it was hard to get everything done but it has been rewarding. I'm so mu
 ## Traffic Rules
 Driving here is easier than in **Pakistan** because everyone strictly obeys rules. However, there are a bunch of rules that you have to be careful about and for someone from **Asia**, it might be overwhelmingly but just be confident and try to learn the rules before driving here. I have gotten better understanding of the rules here and I have been taking my brother with me and everyday I learn new things from him which is a great opportunity.
 
-I want to extend my thanks to everyone who has been rooting for my car. I sincerely appreciate for all your best wishes.
+I want to extend my thanks to everyone who has been rooting for my car. I sincerely appreciate all of your best wishes.
